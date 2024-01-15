@@ -7,7 +7,6 @@
 			"files": [
 				"F:/GameSup/TheOffering/Theoffering_TheCult/Content/FirstPerson/UI/WG_Quest.uasset",
 				"F:/GameSup/TheOffering/Theoffering_TheCult/Content/FirstPerson/UI/WG_QuestJournal.uasset",
-				"F:/GameSup/TheOffering/Theoffering_TheCult/Content/FirstPerson/Maps/a.umap",
 				"F:/GameSup/TheOffering/Theoffering_TheCult/Content/__ExternalActors__/FirstPerson/Maps/Map_Test_Leezak/7/BQ/5ROF9GR4VQ4UTVSNNG8MOR.uasset",
 				"F:/GameSup/TheOffering/Theoffering_TheCult/Content/__ExternalActors__/FirstPerson/Maps/Map_Test_Leezak/4/NJ/RIZ2JGAVF7N1XF6NKTWRBT.uasset",
 				"F:/GameSup/TheOffering/Theoffering_TheCult/Content/__ExternalActors__/FirstPerson/Maps/Map_Test_Leezak/D/QO/UI08T6FB4UU21SPDN9S8OF.uasset",
@@ -79,6 +78,8 @@
 				"F:/GameSup/TheOffering/Theoffering_TheCult/Content/FirstPerson/Blueprints/Leezak_Test/BP_TestQuest.uasset",
 				"F:/GameSup/TheOffering/Theoffering_TheCult/Content/FirstPerson/Blueprints/Leezak_Test/S_Quest.uasset",
 				"F:/GameSup/TheOffering/Theoffering_TheCult/Content/FirstPerson/Blueprints/Leezak_Test/DT_Quest.uasset",
+				"F:/GameSup/TheOffering/Theoffering_TheCult/Content/__ExternalActors__/FirstPerson/Maps/Map_Test_Leezak/A/IY/Y2F125MNDN5ER6OG282NYD.uasset",
+				"F:/GameSup/TheOffering/Theoffering_TheCult/Content/FirstPerson/Maps/a.umap",
 				"D:/Documents/Unreal Projects/Theoffering_TheCult/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
