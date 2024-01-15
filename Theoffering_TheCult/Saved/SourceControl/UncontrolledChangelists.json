@@ -5,6 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Documents/Unreal Projects/TheOffering/TheOffering/Theoffering_TheCult/Content/Blueprints/Interactibles/BP_Interactible.uasset",
+				"D:/Documents/Unreal Projects/TheOffering/TheOffering/Theoffering_TheCult/Content/FirstPerson/Input/Actions/IA_Interact.uasset",
+				"D:/Documents/Unreal Projects/TheOffering/TheOffering/Theoffering_TheCult/Content/FirstPerson/Input/IMC_Default.uasset",
+				"D:/Documents/Unreal Projects/TheOffering/TheOffering/Theoffering_TheCult/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/Documents/Unreal Projects/TheOffering/TheOffering/Theoffering_TheCult/Content/UserInterface/Resources/InputBackground.uasset",
+				"D:/Documents/Unreal Projects/TheOffering/TheOffering/Theoffering_TheCult/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"D:/Documents/Unreal Projects/TheOffering/TheOffering/Theoffering_TheCult/Content/UserInterface/InteractFeedback.uasset",
+				"D:/Documents/Unreal Projects/TheOffering/TheOffering/Theoffering_TheCult/Content/UserInterface/MainUserWidget.uasset",
+				"D:/Documents/Unreal Projects/TheOffering/TheOffering/Theoffering_TheCult/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/9K/D0SLYF7Y9NXCIMV2U37027.uasset",
+				"D:/Documents/Unreal Projects/TheOffering/TheOffering/Theoffering_TheCult/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/FM/2DNVY6060ZHAGIHX18Y2WH.uasset",
+				"D:/Documents/Unreal Projects/TheOffering/TheOffering/Theoffering_TheCult/Content/Blueprints/Interactibles/BP_Interactible_Child.uasset",
 				"D:/Documents/Unreal Projects/Theoffering_TheCult/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
