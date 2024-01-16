@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Loic DANJOUX/Documents/Cours/Game Design/Unreal Projects/TheOffering/Theoffering_TheCult/Content/FirstPerson/Maps/Map_LD_Loic.umap",
+				"C:/Users/Loic DANJOUX/Documents/Cours/Game Design/Unreal Projects/TheOffering/Theoffering_TheCult/Content/FirstPerson/Maps/Map_LD_Chambellan_Office.umap",
+				"C:/Users/Loic DANJOUX/Documents/Cours/Game Design/Unreal Projects/TheOffering/Theoffering_TheCult/Content/FirstPerson/Maps/Map_LD_Street.umap",
+				"C:/Users/Loic DANJOUX/Documents/Cours/Game Design/Unreal Projects/TheOffering/Theoffering_TheCult/Content/FirstPerson/Maps/Map_LD_Street_2.umap",
 				"D:/Documents/Unreal Projects/TheOffering/TheOffering/Theoffering_TheCult/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/N9/XE3IN46VDNPT7IJWT7ANU3.uasset",
 				"D:/Documents/Unreal Projects/TheOffering/TheOffering/Theoffering_TheCult/Content/Blueprints/DialogSystem/DT_DialogSentences.uasset",
 				"D:/Documents/Unreal Projects/TheOffering/TheOffering/Theoffering_TheCult/Content/PoseAnimations/Animations/Transitions/Pose02/A_Pose02to01.uasset",
