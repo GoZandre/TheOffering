@@ -9,7 +9,6 @@
 				"F:/GameSup/TheOffering/Theoffering_TheCult/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"F:/GameSup/TheOffering/Theoffering_TheCult/Content/FirstPerson/UI/WG_Quest.uasset",
 				"F:/GameSup/TheOffering/Theoffering_TheCult/Content/FirstPerson/Blueprints/Leezak_Test/S_SousQuest.uasset",
-				"F:/GameSup/TheOffering/Theoffering_TheCult/Content/FirstPerson/Blueprints/Leezak_Test/DT_SousQuest.uasset",
 				"F:/GameSup/TheOffering/Theoffering_TheCult/Content/FirstPerson/UI/WG_SousQuest.uasset",
 				"F:/GameSup/TheOffering/Theoffering_TheCult/Content/FirstPerson/Blueprints/Leezak_Test/BP_TestQuest.uasset",
 				"F:/GameSup/TheOffering/Theoffering_TheCult/Content/FirstPerson/Blueprints/Leezak_Test/DT_Quest.uasset",
@@ -19,7 +18,19 @@
 				"F:/GameSup/TheOffering/Theoffering_TheCult/Content/__ExternalActors__/FirstPerson/Maps/Map_Test_Leezak/E/NA/RIZMO9W684OA2QDS80XOQL.uasset",
 				"F:/GameSup/TheOffering/Theoffering_TheCult/Content/__ExternalActors__/FirstPerson/Maps/Map_Test_Leezak/5/F1/YNA0WF0ACSGLU5W8ZRU9U5.uasset",
 				"F:/GameSup/TheOffering/Theoffering_TheCult/Content/__ExternalActors__/FirstPerson/Maps/Map_Test_Leezak/B/0L/JF2I4ATSTPPCF66T0TFOGW.uasset",
-				"F:/GameSup/TheOffering/Theoffering_TheCult/Content/FirstPerson/UI/WG_QuestJournal.uasset"
+				"F:/GameSup/TheOffering/Theoffering_TheCult/Content/FirstPerson/UI/WG_QuestJournal.uasset",
+				"F:/GameSup/TheOffering/Theoffering_TheCult/Content/FirstPerson/Blueprints/Leezak_Test/SW_OpenDoor.uasset",
+				"F:/GameSup/TheOffering/Theoffering_TheCult/Content/FirstPerson/Blueprints/Leezak_Test/SW_Unlock.uasset",
+				"F:/GameSup/TheOffering/Theoffering_TheCult/Content/FirstPerson/Blueprints/Leezak_Test/SW_Village.uasset",
+				"F:/GameSup/TheOffering/Theoffering_TheCult/Content/FirstPerson/Blueprints/Leezak_Test/SW_Sewer.uasset",
+				"F:/GameSup/TheOffering/Theoffering_TheCult/Content/FirstPerson/Blueprints/Leezak_Test/SC_Village.uasset",
+				"F:/GameSup/TheOffering/Theoffering_TheCult/Content/FirstPerson/Blueprints/Leezak_Test/SC_Unlock.uasset",
+				"F:/GameSup/TheOffering/Theoffering_TheCult/Content/FirstPerson/Blueprints/Leezak_Test/SA_Ambiance.uasset",
+				"F:/GameSup/TheOffering/Theoffering_TheCult/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/NL/VTDKMBZ3GYSZHVRIWPRGNQ.uasset",
+				"F:/GameSup/TheOffering/Theoffering_TheCult/Content/FirstPerson/Blueprints/Leezak_Test/SA_AVillage.uasset",
+				"F:/GameSup/TheOffering/Theoffering_TheCult/Content/FirstPerson/Blueprints/Leezak_Test/er.uasset",
+				"F:/GameSup/TheOffering/Theoffering_TheCult/Content/FirstPerson/Blueprints/Leezak_Test/SW_Lock.uasset",
+				"F:/GameSup/TheOffering/Theoffering_TheCult/Content/FirstPerson/Blueprints/Leezak_Test/DT_SousQuest.uasset"
 			]
 		}
 	]
