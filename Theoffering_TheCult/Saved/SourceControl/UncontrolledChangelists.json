@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Loic DANJOUX/Documents/Cours/Game Design/Unreal Projects/TheOffering/Theoffering_TheCult/Content/FirstPerson/Maps/Map_LD_Sewer_Retake.umap",
+				"C:/Users/Loic DANJOUX/Documents/Cours/Game Design/Unreal Projects/TheOffering/Theoffering_TheCult/Content/FirstPerson/Maps/Map_LD_Street_2.umap",
+				"C:/Users/Loic DANJOUX/Documents/Cours/Game Design/Unreal Projects/TheOffering/Theoffering_TheCult/Content/FirstPerson/Maps/Map_LD_Street_MapArene.umap",
 				"F:/GameSup/TheOffering/Theoffering_TheCult/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"F:/GameSup/TheOffering/Theoffering_TheCult/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"F:/GameSup/TheOffering/Theoffering_TheCult/Content/FirstPerson/UI/WG_Quest.uasset",
