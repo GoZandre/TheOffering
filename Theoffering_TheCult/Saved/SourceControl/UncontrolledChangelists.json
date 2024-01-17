@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Loic DANJOUX/Documents/Cours/Game Design/Unreal Projects/TheOffering/Theoffering_TheCult/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Loic DANJOUX/Documents/Cours/Game Design/Unreal Projects/TheOffering/Theoffering_TheCult/Content/FirstPerson/Maps/Map_LD_Sewer_Retake.umap"
+			]
+		}
+	]
+}
