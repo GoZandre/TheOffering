@@ -5,10 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/UNREAL/Unreal Projects/TheOffering/Theoffering_TheCult/Content/FirstPerson/Maps/Map_LD_Street_2.umap",
-				"C:/UNREAL/Unreal Projects/TheOffering/Theoffering_TheCult/Content/Materials/M_LandscapeHole.uasset",
-				"C:/UNREAL/Unreal Projects/TheOffering/Theoffering_TheCult/Content/FirstPerson/Maps/_GENERATED/KenzaDIFRANCESCO/Path_6A2863B6.uasset",
-				"C:/UNREAL/Unreal Projects/TheOffering/Theoffering_TheCult/Content/FirstPerson/Maps/Map_LD_Sewer_Retake.umap",
+				"C:/Unreal/TheOffering/Theoffering_TheCult/Content/StarterContent/Maps/Nolan.umap",
+				"C:/Unreal/TheOffering/Theoffering_TheCult/Content/StarterContent/Maps/_GENERATED/NolanALEXANDRE/Merge_D4AEF138.uasset",
+				"C:/Unreal/TheOffering/Theoffering_TheCult/Content/StarterContent/Maps/_GENERATED/NolanALEXANDRE/Merge_E117001E.uasset",
 				"F:/GameSup/TheOffering/Theoffering_TheCult/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"F:/GameSup/TheOffering/Theoffering_TheCult/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"F:/GameSup/TheOffering/Theoffering_TheCult/Content/FirstPerson/UI/WG_Quest.uasset",
